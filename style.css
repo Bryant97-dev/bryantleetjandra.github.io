@@ -456,15 +456,11 @@ margin:0;
 	width:100%;
 	height:auto;
 }
-.row-gallery{
-	background-color:blue;
-	text-align:center;
-	width:90%;
-	display:flex;
-	flex-warp:warp;	
+.padding-top-20{
+	padding-top:20px;	
 }
-.center{
-	margin-left:40px;
+.white{
+	color:white;	
 }
 
 .col-1 {flex: 8.33%;}
